@@ -41,4 +41,6 @@ To correctly run the codes, it is necessary to:
 
 If you have any questions or encounter any issues, feel free to contact the code author.
 
+DOI:10.5281/zenodo.15078325
+[![DOI](https://zenodo.org/badge/950986055.svg)](https://doi.org/10.5281/zenodo.15078324)
 
